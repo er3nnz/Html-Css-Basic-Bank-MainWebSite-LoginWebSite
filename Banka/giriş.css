@@ -1,0 +1,49 @@
+div{
+    margin: auto;
+    background-color: black;
+    width: 50%;
+    margin-top: 150px;
+    height: 500px;
+    box-shadow: 0px 0px 20px 1px red;
+    border-radius: 10px;
+}
+
+h1{
+    margin-bottom: 100px;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    background-color: darkgray;
+}
+
+#label1{
+    font-size: larger;
+    margin-left: 80px;
+
+}
+
+#label2{
+    font-size: larger;
+    margin-left:90px;
+}
+
+#input{
+    color: black;
+    width: 30%;
+    background-color:darkgray;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 1px red;
+}
+
+button{
+    margin-left: 20px;
+    width: 15%;
+    border-radius: 5px;
+    background-color: darkgray;
+    color: black;
+}
+
+#label3{
+    font-size: larger;
+    margin-left: 90px;
+}
